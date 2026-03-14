@@ -1,6 +1,5 @@
-public class ConcentricPattern {
-    public static void main(String[] args) {
-
+public class ConcentricPattern{
+public static void main(String[] args) {
         int n = 4;
         int size = 2 * n - 1;
 
